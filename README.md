@@ -8,3 +8,6 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 - [Transparency: Illusions of a Single System (Part 1)](https://medium.com/baseds/transparency-illusions-of-a-single-system-part-1-b01c25f7dddd)
 - [Transparency: Illusions of a Single System (Part 2)](https://medium.com/baseds/transparency-illusions-of-a-single-system-part-2-2b21c5047774)
 
+### February		
+- [Scalability: Growing a System in Different Directions](https://medium.com/baseds/scalability-growing-a-system-in-different-directions-ae16469c4cb3)
+
