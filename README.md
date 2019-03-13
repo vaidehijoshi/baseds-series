@@ -11,3 +11,6 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 ### February		
 - [Scalability: Growing a System in Different Directions](https://medium.com/baseds/scalability-growing-a-system-in-different-directions-ae16469c4cb3)
 - [Scalability Problems: Hidden Challenges of Growing a System](https://medium.com/baseds/scalability-problems-hidden-challenges-of-growing-a-system-f74313b063c3)
+
+### March	
+- [Scalability Solutions: Managing a System’s Growth Spurts](https://medium.com/baseds/scalability-solutions-managing-a-systems-growth-spurts-d8abc9143fac)
