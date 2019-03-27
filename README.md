@@ -14,3 +14,4 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 
 ### March	
 - [Scalability Solutions: Managing a System’s Growth Spurts](https://medium.com/baseds/scalability-solutions-managing-a-systems-growth-spurts-d8abc9143fac)
+- [Ready and Available Distributed Systems](https://medium.com/baseds/ready-and-available-distributed-systems-161023aca378)
