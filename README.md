@@ -18,3 +18,7 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 
 ### April	
 - [Fantastic Faults and What to Call Them](https://medium.com/baseds/fantastic-faults-and-what-to-call-them-56d91a1b198c)
+- [Modes of Failure (Part 1)](https://medium.com/baseds/modes-of-failure-part-1-6687504bfed6)
+
+### May	
+- Modes of Failure (Part 2)
