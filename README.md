@@ -21,4 +21,4 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 - [Modes of Failure (Part 1)](https://medium.com/baseds/modes-of-failure-part-1-6687504bfed6)
 
 ### May	
-- Modes of Failure (Part 2)
+- [Modes of Failure (Part 2)](https://medium.com/baseds/modes-of-failure-part-2-4d050794be2f)
