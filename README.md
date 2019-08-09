@@ -26,3 +26,8 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 ### June
 - [Weeding Out Distributed System Bugs](https://medium.com/baseds/weeding-out-distributed-system-bugs-28a01e37f70c)
 - [Foraging for the Fallacies of Distributed Computing (Part 1)](https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-1-1b35c3b85b53)
+
+### July
+
+### August
+- [Foraging for the Fallacies of Distributed Computing (Part 2)](https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-2-b8ff29beed56)
