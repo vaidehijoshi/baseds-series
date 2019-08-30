@@ -31,3 +31,5 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 
 ### August
 - [Foraging for the Fallacies of Distributed Computing (Part 2)](https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-part-2-b8ff29beed56)
+- [Redundancy and Replication: Duplicating in a Distributed System](https://medium.com/baseds/redundancy-and-replication-duplicating-in-a-distributed-system-7ab4322d7378?source=collection_home---4------1-----------------------)
+- [Parsing Through Partitions in a Distributed System](https://medium.com/baseds/parsing-through-partitions-in-a-distributed-system-3c1723fecc4e)
