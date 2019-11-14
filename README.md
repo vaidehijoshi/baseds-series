@@ -39,3 +39,6 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 ### October
 - [Ticking Clocks in a Distributed System](https://medium.com/baseds/ticking-clocks-in-a-distributed-system-ef2aa4df07a3)
 - [Ordering Distributed Events](https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff)
+
+### November
+- [Logical Time and Lamport Clocks (Part 1)](https://medium.com/baseds/logical-time-and-lamport-clocks-part-1-d0317e407112)
