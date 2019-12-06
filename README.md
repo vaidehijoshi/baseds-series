@@ -42,3 +42,6 @@ The baseds series is being created with 💛 in 2019 by [Vaidehi](https://twitte
 
 ### November
 - [Logical Time and Lamport Clocks (Part 1)](https://medium.com/baseds/logical-time-and-lamport-clocks-part-1-d0317e407112)
+
+### December
+- [Logical Time and Lamport Clocks (Part 2)](https://medium.com/baseds/logical-time-and-lamport-clocks-part-2-272c097dcdda)
